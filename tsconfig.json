@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6",
+    },
+    "include": [
+        "app/**/*" // pasta app, toda subpasta de app e qualquer arquivo de app.
+    ]
+}
